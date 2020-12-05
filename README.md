@@ -6,7 +6,7 @@
 
 ### How to Use
 1. Download `geo-fetch.js`
-1. Create HTML file and add this code
+1. Create HTML file and add this code</br>
     * inside `<head>` tag
     Note : Replace `/path/to/geo-fetch-js` with your own
     ```html
