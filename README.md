@@ -4,7 +4,7 @@
 1. Free GeoIP : https://freegeoip.app
 1. jQuery : https://code.jquery.com/
 
-###How to Use
+### How to Use
 1. Download `geo-fetch.js`
 1. Create HTML file and add this code
     * inside `<head>` tag
