@@ -13,3 +13,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="/path/to/geo-fetch.js"></script>
     ```
+    1. Console log testing (the variable name is `userIPInfo`). You can change it by yourself
+    ```javascript
+    console.log(userIPInfo);
+    ```
