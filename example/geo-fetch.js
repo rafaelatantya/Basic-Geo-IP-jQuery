@@ -4,7 +4,7 @@ var userIPInfo = "";
 const userIpSettings = {
   "async": false,
   "crossDomain": true,
-  "url": `https://freegeoip.app/json/${userIpAddrFinal}`,
+  "url": `https://www.cloudflare.com/cdn-cgi/trace`,
   "method": "GET"
 };
 
